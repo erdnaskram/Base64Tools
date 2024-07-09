@@ -1,6 +1,7 @@
 # Base64Tools
 
 Base64Tools is a simple java-based tool to encode and decode files via base64.
+Link to the GitHub repository: [Base64Tools](https://github.com/erdnaskram/Base64Tools)
 ***
 
 For using these tools you simply copy the path (including the file name) of the file you want to encode/decode and paste
